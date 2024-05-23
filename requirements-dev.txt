@@ -13,3 +13,4 @@ pre-commit
 flake8-bugbear
 flake8-mypy
 pluggy
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
