@@ -13,3 +13,4 @@ pre-commit
 flake8-bugbear
 flake8-mypy
 pluggy
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
